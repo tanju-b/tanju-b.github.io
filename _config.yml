@@ -24,3 +24,7 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/tanju-b
+
+  pages_list:       
+  About: '/about'
+  Archive: '/archive'
