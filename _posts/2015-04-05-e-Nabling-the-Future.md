@@ -3,7 +3,7 @@ layout: post
 title: e-Nabling the future
 ---
 
-![placeholder](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/Handomatic_Capture.JPG?raw=true "Handomatic screen capture")
+![Handomatic screen capture](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/Handomatic_Capture.JPG?raw=true "Handomatic screen capture")
 
 <div class="message">
   A brief summary of how I became involved with 3D printing prosthetic hands with enablingthefuture.org
@@ -29,5 +29,5 @@ My intention is to post each project separately to github repositories with deta
 
 Here is my initial tweet following success with the first phalanges.
 
-![placeholder](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/first-phalanges_Capture.JPG?raw=true "first phalanges print")
+![tweet](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/first-phalanges.JPG?raw=true "first phalanges print")
 
