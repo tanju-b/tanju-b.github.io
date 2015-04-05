@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Tanju's io
+title:            my io
 tagline:          'Make yo self before you wreck yo self'
 description:      'A centralized location for summary and details of my making adventures beyond the ultraworld. Made by <a href="https://twitter.com/tanjub" target="_blank">@tanjuB</a>.'
-#url:              http://hyde.getpoole.com
-#baseurl:          /
+url:              http://hyde.getpoole.com
+baseurl:          /
 
 author:
   name:           'Tanju Bayramoglu'
@@ -22,5 +22,5 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-#github:
-#  repo:           https://github.com/poole/hyde
+github:
+  repo:           https://github.com/poole/hyde
