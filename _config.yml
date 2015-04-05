@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            my io
 tagline:          'Make yo self before you wreck yo self'
 description:      'A centralized location for summary and details of my making adventures beyond the ultraworld. Made by <a href="https://twitter.com/tanjub" target="_blank">@tanjuB</a>.'
-url:              http://hyde.getpoole.com
+url:              http://tanju-b.github.io/
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/tanju-b
