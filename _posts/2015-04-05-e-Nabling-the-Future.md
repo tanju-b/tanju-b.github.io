@@ -31,3 +31,5 @@ Here is my initial tweet following success with the first phalanges.
 
 ![tweet](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/first-phalanges.JPG?raw=true "first phalanges print")
 
+
+{% include twitter_plug.html %}
