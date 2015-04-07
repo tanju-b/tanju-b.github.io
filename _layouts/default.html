@@ -17,9 +17,10 @@
 	<body class="layout-reverse">
     <div class="content container">
       {{ content }}
+	  {% include comments.html %} <!-- adds disqus comments -->
     </div>
 
 	{% include google_analytics.html %} <!--added -->
-	{% include comments.html %}
+	
   </body>
 </html>
