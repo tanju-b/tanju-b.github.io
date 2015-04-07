@@ -4,7 +4,7 @@
 
 Repository for my maker blog
 
-This blog was built off of Hyde-Poole, with set up guidance from Josh Lande: http://joshualande.com/jekyll-github-pages-poole/ .
+This blog was built off of the Hyde-Poole code base, with set up guidance from Josh Lande: http://joshualande.com/jekyll-github-pages-poole/ .
 I also referenced a bit of this tutorial during the initial set up: http://webdesign.tutsplus.com/tutorials/getting-to-know-github-pages-static-project-pages-fast--webdesign-11501
 
 Thank you interwebz for sharing the knowledge
