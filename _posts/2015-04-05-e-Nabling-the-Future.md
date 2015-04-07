@@ -1,6 +1,7 @@
 ---
 layout: post
 title: e-Nabling the future
+comments: True
 ---
 
 ![Handomatic screen capture](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/Handomatic_Capture.JPG?raw=true "Handomatic screen capture")
@@ -33,3 +34,4 @@ Here is my initial tweet following success with the first phalanges.
 
 
 {% include twitter_plug.html %}
+***
