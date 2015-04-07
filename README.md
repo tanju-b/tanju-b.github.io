@@ -1,5 +1,5 @@
 ## http://tanju-b.github.io/
-### *Make yo self before you wreck yo self*
+#### *Make yo self before you wreck yo self*
 
 
 Repository for my maker blog
@@ -9,8 +9,9 @@ I also referenced a bit of this tutorial during the initial set up: http://webde
 
 Thank you interwebz for sharing the knowledge
 
-
 ***
+
+
 # Hyde
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
