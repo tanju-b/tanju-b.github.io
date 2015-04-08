@@ -9,6 +9,8 @@ title: About
   Hello, World! I'm using the blog to keep track of all my major projects, ideas, muses, and learnings</p>
 
 I've always liked to tinker, and over the past couple of years I've really turned it up a notch.  First by building a reprap 3D printer at home and more recently by helping found and operate the Maker Station makerspace in Marietta, GA.   My background, skill set, and passions are primarily mechanical... I'm a knuckle dragging mechanical engineer.  I'm trying to expand my horizons in the digital age and pick up some rudimentary programming skills.  I'm particularly interested in the intersection of mechanical and digital.
+
+Thank you interwebz for sharing the knowledge,
   
 [@tanjuB](https://twitter.com/tanjuB)  
 
@@ -17,7 +19,7 @@ I've always liked to tinker, and over the past couple of years I've really turne
 
 ***
 This blog built from Jekyll and GitHub using the Hyde theme by Poole, info below.
-I also leveraged the guidance posted by Joshua Lande: [http://joshualande.com/jekyll-github-pages-poole/](http://joshualande.com/jekyll-github-pages-poole/)  as well as some of this tutorial: [webdesign.tutsplus.com/tutorials/getting-to-know-github-pages-static-project-pages-fast--webdesign-11501](webdesign.tutsplus.com/tutorials/getting-to-know-github-pages-static-project-pages-fast--webdesign-11501)
+I also leveraged the guidance posted by Joshua Lande: [http://joshualande.com/jekyll-github-pages-poole/](http://joshualande.com/jekyll-github-pages-poole/)  as well as some of this tutorial: [webdesign.tutsplus.com/tutorials/getting-to-know-github-pages-static-project-pages-fast--webdesign-11501](webdesign.tutsplus.com/tutorials/getting-to-know-github-pages-static-project-pages-fast--webdesign-11501).   I added google+ comments using this guidance: [http://steelx.github.io/best-internet-tips/2014/11/23/Add-google-plus-comments-box-to-jekyll-website.html](http://steelx.github.io/best-internet-tips/2014/11/23/Add-google-plus-comments-box-to-jekyll-website.html)
 
 * [Hyde](http://hyde.getpoole.com)
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
