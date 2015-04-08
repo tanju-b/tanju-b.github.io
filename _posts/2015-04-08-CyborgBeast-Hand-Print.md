@@ -12,9 +12,9 @@ Having success printing out the cyborg beast hand, but it is turning out to be m
 Oddly enough, I did feel like spending time trying to add a tension block to the existing gauntlet that we have already printed.  This also turned into a protracted exercise, taking many hours and a couple of iterations.  Much longer than I cared for.  In the end, I've got something that seems like it will work, but for the next iteration I will try out the [Frankie Flood gauntlet](http://www.thingiverse.com/thing:267198) design recommend by [3DUNIVERSE](http://shop3duniverse.com/collections/3d-printable-kits/products/e-nable-hand-assembly-materials-kit-cyborg-beast-edition).
 
 
-[Gauntlet tensioner iterations](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/Adding-tensioner.png?raw=true "Adding Tensioner")
+![Gauntlet tensioner iterations](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/Adding-tensioner.png?raw=true "Adding Tensioner")
 
-[Gauntlet Frankie Flood](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/FFlood-design.JPG?raw=true "Gauntlet Frankie Flood")
+![Gauntlet Frankie Flood](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/FFlood-design.JPG?raw=true "Gauntlet Frankie Flood")
 
 In addition to lack of tensioner, the cyborg beast hand uses Chicago screws for all the connections.  Since the models is scaled, all the holes end up scaled and require being drilled out to accommodate the screws.   I also need to shorten the post for the knuckles by 1/4" as standard off the shelf lengths are either just barely too short... or too long.
 
