@@ -11,7 +11,7 @@ title:            tanju's io
 tagline:          'Make yo self before you wreck yo self'
 description:      'A centralized location for summary & details of my making adventures beyond the ultraworld. Made by <a href="https://twitter.com/tanjub" target="_blank">@tanjuB</a>.'
 url:              http://tanju-b.github.io/
-baseurl:          /
+baseurl:          http://tanju-b.github.io/
 
 author:
   name:           'Tanju Bayramoglu'
@@ -28,3 +28,4 @@ github:
   pages_list:       
   About: '/about'
   Archive: '/archive'
+  Projects: '/projects'
