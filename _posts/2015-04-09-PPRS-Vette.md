@@ -7,7 +7,7 @@ comments: True
 ![Vette](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/Vette-02.jpg?raw=true "Vette")
 
 
-**Besides** 3D printing hands, we have several other projects going on down at the io estate and the Maker Station.  I'm pretty excited to start making some progress on our entry into this season's Power Racing Series race at the Atlanta MakerFaire.
+**Besides** 3D printing hands, we have several other projects going on down at the io-estate and the Maker Station.  I'm pretty excited to start making some progress on our entry into this season's Power Racing Series race at the Atlanta MakerFaire.
 
 **While** the gauntlet and palm parts were printing last weekend, I mocked up the car's frame in PVC.  A couple of days ago I procured some 1/2" steel tubing from Metals Supermarket... which was not as *super* as I had hoped.  However, it was *super convenient* in that I placed the order online, and was able to pick it up later that day.  I was hoping to find a big warehouse type of supermarket where I could wander through and see steel and cutting machines because *steel*, but instead it was just a small store front and the guy went back into the employees only warehouse to grab my order.  The entire transaction took all of two minutes, *super convenient*.   
 
@@ -20,6 +20,7 @@ Against everyone at the Station's better judgement, I elected to go with 1/2" sq
 ![Vette Frame Mockup](https://github.com/tanju-b/tanju-b.github.io/blob/master/_posts/Images/frame-mockup.png?raw=true "Vette Frame Mockup")
 
 **References:**
+
 * [Power Racing Series](http://www.powerracingseries.org/)
 * [Metals Supermarket](http://metalsupermarkets.com/) I'm a fan now!
 * [Details of the vette's build will end up here](http://wiki.themakerstation.com/Barbie_Maker_Corvette)
